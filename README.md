@@ -5,6 +5,8 @@
 ## Dashboard
 
 ![淘宝用户行为与转化分析看板](images/dashboard.png)
+**在线交互版本：** https://public.tableau.com/app/profile/alex.xiao6194/viz/Taobao_User_Behavior_Analysis/sheet4
+
 
 ## 项目目标
 
@@ -17,7 +19,7 @@
 
 ## 数据说明
 
-数据来源：阿里云天池淘宝用户行为数据集。
+数据来源：阿里云天池淘宝用户行为数据集。(https://tianchi.aliyun.com/dataset/649)
 
 主要字段：
 
