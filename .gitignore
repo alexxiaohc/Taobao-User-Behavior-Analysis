@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Ignore all local data files
+data/
+
+# SQLite database
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
